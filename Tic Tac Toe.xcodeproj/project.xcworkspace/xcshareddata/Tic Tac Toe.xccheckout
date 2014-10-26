@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E3F0855-1584-42C9-B242-F97725381637</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tic Tac Toe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6446DC586A2A7B2A20577B614DBD2E4C9F56E97D</key>
+		<string>https://github.com/brianyingling/ios-course.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tic Tac Toe/Tic Tac Toe/Tic Tac Toe.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6446DC586A2A7B2A20577B614DBD2E4C9F56E97D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/brianyingling/ios-course.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6446DC586A2A7B2A20577B614DBD2E4C9F56E97D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6446DC586A2A7B2A20577B614DBD2E4C9F56E97D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ioscourse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
